@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SwatiAUpadhyay
+- 👋 Hi, I’m Swati Upadhyay
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning Cypress
 - 💞️ I’m looking to collaborate on Automation Projects
